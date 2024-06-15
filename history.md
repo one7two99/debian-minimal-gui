@@ -30,7 +30,6 @@ export "XDG_RUNTIME_DIR=/run/user/$(id -u)" >> ~/.bashrc
 mkdir -p ~/.config/sway
 cp /etc/sway/config ~/.config/sway
 nano ~/.config/sway/config
-```
 cp /etc/xdg/foot/foot.ini .config/foot
 ```
 
@@ -57,4 +56,6 @@ mkdir -p ~/.config/waybar
 # See also https://linuxconfig.org/how-to-install-configure-and-customize-waybar-on-linux
 ```
 ## Install additional programs
+```
 apt-get install qutebrowser firefox
+```
