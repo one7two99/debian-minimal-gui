@@ -30,6 +30,7 @@ export "XDG_RUNTIME_DIR=/run/user/$(id -u)" >> ~/.bashrc
 mkdir -p ~/.config/sway
 cp /etc/sway/config ~/.config/sway
 nano ~/.config/sway/config
+```
 cp /etc/xdg/foot/foot.ini .config/foot
 ```
 
