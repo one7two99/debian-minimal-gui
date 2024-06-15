@@ -2,7 +2,7 @@
 # Read `man 5 sway` for a complete reference.
 #
 # /home/user/.config/sway/config
-# Date: 15. Jun 2024
+# Date: 16. Jun 2024
 
 ### Variables
 #
@@ -27,7 +27,7 @@ include /etc/sway/config-vars.d/*
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 #output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
-output * bg /home/user/Downloads/pexels-iriser-1366957.jpg fill
+output * bg ~/.config/sway/pexels-iriser-1366957.jpg fill
 #
 # Example configuration:
 #

@@ -32,6 +32,9 @@ cp /etc/sway/config ~/.config/sway
 nano ~/.config/sway/config
 cp /etc/xdg/foot/foot.ini .config/foot
 ```
+The background image at ~/.config/sway/pexels-iriser-1366957.jpg
+is from Irina Iriser:
+https://www.pexels.com/photo/high-rise-buildings-during-nighttime-1366957/
 
 ## Install greetd
 ```
